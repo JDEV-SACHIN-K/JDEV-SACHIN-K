@@ -152,19 +152,6 @@ Designed a secure eVault system leveraging **Ethereum Smart Contracts** and **IP
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDEV-SACHIN-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=02000a&title_color=00f0ff&icon_color=a855f7&text_color=e2e2f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JDEV-SACHIN-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=02000a&title_color=00f0ff&text_color=e2e2f0)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JDEV-SACHIN-K&theme=tokyonight&hide_border=true&background=02000a&ring=00f0ff&fire=a855f7&currStreakLabel=00f0ff)
-
-</div>
-
----
 
 ## 📬 Let's Connect
 
