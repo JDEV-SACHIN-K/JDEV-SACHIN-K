@@ -160,7 +160,7 @@ Have a project, a role, or just want to talk Java & Spring?
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-k-dev)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin21703@gmail.com)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)(https://jdev-sachin-k.github.io/PORTFOLIO/)]
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jdev-sachin-k.github.io/PORTFOLIO/)
 
 ---
 
