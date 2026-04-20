@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║         > system.initialize()                        ║
-║         > Loading profile: Sachin Kumar...           ║
-║         > Stack: Java 21 · Spring Boot · Spring AI   ║
-║         > Status: Open to opportunities ✓            ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║        > system.initialize()                             ║
+║        > Loading profile: Sachin Kumar...                ║
+║        > Stack: Java 21 · Spring Boot · Spring AI · etc. ║
+║        > Status: Open to opportunities ✓                 ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 # Hey, I'm Sachin Kumar 👋
